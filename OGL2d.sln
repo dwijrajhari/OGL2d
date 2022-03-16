@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OGL2d", "OGL2d.vcxproj", "{4FDEC2C7-D66D-4280-8049-D9D881546C4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FDEC2C7-D66D-4280-8049-D9D881546C4D}.Debug|x64.ActiveCfg = Debug|x64
+		{4FDEC2C7-D66D-4280-8049-D9D881546C4D}.Debug|x64.Build.0 = Debug|x64
+		{4FDEC2C7-D66D-4280-8049-D9D881546C4D}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FDEC2C7-D66D-4280-8049-D9D881546C4D}.Debug|x86.Build.0 = Debug|Win32
+		{4FDEC2C7-D66D-4280-8049-D9D881546C4D}.Release|x64.ActiveCfg = Release|x64
+		{4FDEC2C7-D66D-4280-8049-D9D881546C4D}.Release|x64.Build.0 = Release|x64
+		{4FDEC2C7-D66D-4280-8049-D9D881546C4D}.Release|x86.ActiveCfg = Release|Win32
+		{4FDEC2C7-D66D-4280-8049-D9D881546C4D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0044159-E3BC-4034-9D61-083A96E4406B}
+	EndGlobalSection
+EndGlobal
